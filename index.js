@@ -1,4 +1,3 @@
-
 $('.open-gallery-link').click(function() {
   
   var items = [];
